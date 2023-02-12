@@ -16,7 +16,7 @@
   <h2>Usage</h2>
   <p>To use the model, simply clone the repository and run the following command:</p>
   <pre>
-  python3 main.py
+  https://github.com/saikrishna64/CNN_Custom_Model_on_Multilabel_Classification/blob/main/CNN_Custom_Model_on_Multilabel_Classification.ipynb
   </pre>
   <p>The model will then be trained and tested on the data.</p>
   <h2>Conclusion</h2>
